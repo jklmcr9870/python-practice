@@ -1,1 +1,1 @@
-Basic practice with python
+Basic practice reading json file with python
